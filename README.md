@@ -1,4 +1,4 @@
-# Staggering ctest tests with cmake
+# Staggered start of ctest tests with cmake
 
 For certain types of cmake/ctest tests it can be handy to offset their startup
 to prevent simultaneuous access to common test resources. This can either
